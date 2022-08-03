@@ -3,3 +3,7 @@ data/test.csv
 *.csv
 *.html
 
+*.DS_Store
+*.joblib
+mlruns
+artifacts
