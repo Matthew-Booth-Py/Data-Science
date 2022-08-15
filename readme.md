@@ -31,13 +31,12 @@
 
 
 
-## Usage
+<!-- ## Usage
 
 ```js
 var kaggleCompetitions = require('kaggle-competitions');
 kaggleCompetitions();
-```
+``` -->
 
 ## License
-
 MIT © [Matthew Booth](datascienceverse.net)
