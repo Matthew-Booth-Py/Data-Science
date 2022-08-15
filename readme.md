@@ -16,13 +16,11 @@ $ npm install --save kaggle-competitions
 │   │   └── train.csv
 │   ├── glm-blank.ipynb
 │   ├── glm.ipynb
-│   ├── p.csv
 │   ├── pipeline.ipynb
 │   └── utils.py
 ├── ai-navigation
 │   └── main.py
 ├── monte_carlo
-│   ├── New Text Document.txt
 │   └── intel.ipynb
 ├── readme.md
 └── recommendation_system
