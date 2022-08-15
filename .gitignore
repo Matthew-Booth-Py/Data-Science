@@ -3,6 +3,7 @@
 *.html
 *.DS_Store
 *.joblib
+*.env
 
 
 mlruns
