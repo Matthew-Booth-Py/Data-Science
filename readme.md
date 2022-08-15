@@ -9,23 +9,28 @@ $ npm install --save kaggle-competitions
 ```
 
 ```
-├── LR-household_price_predictor
-│   ├── data
-│   │   ├── sample_submission.csv
-│   │   ├── test.csv
-│   │   └── train.csv
-│   ├── glm-blank.ipynb
-│   ├── glm.ipynb
-│   ├── pipeline.ipynb
-│   └── utils.py
-├── ai-navigation
-│   └── main.py
-├── monte_carlo
-│   └── intel.ipynb
-├── readme.md
-└── recommendation_system
-    ├── movies_metadata.csv
-    └── network.ipynb
+── readme.md
+├── supervised_learning
+│   └── linear_models
+│       ├── house_price_prediction
+│       │   ├── data
+│       │   │   ├── sample_submission.csv
+│       │   │   ├── test.csv
+│       │   │   └── train.csv
+│       │   ├── glm-blank.ipynb
+│       │   ├── glm.ipynb
+│       │   ├── pipeline.ipynb
+│       │   └── utils.py
+│       └── monte_carlo_simulation
+│           └── stocks.ipynb
+└── unsupervised_learning
+    ├── ai-navigation
+    │   ├── main.py
+    │   └── supervised_learning
+    └── recommendation_system
+        ├── movies_metadata.csv
+        └── network.ipynb
+
 ```
 
 
