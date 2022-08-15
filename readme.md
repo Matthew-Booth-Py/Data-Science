@@ -1,6 +1,6 @@
 # kaggle-competitions [![NPM version](https://badge.fury.io/js/kaggle-competitions.svg)](https://npmjs.org/package/kaggle-competitions) [![Build Status](https://travis-ci.org/lordbounties/kaggle-competitions.svg?branch=master)](https://travis-ci.org/lordbounties/kaggle-competitions)
 
-> Welcome all! Here you will find my Kaggle Competition walk through's and coding challenges!
+> Welcome all! This repo documents my learning process through many different techniques within Machine Learning. Enjoy!
 
 ## Installation
 
