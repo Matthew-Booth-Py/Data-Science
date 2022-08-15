@@ -2,11 +2,7 @@
 
 > Welcome all! This repo documents my learning process through many different techniques within Machine Learning. Enjoy!
 
-## Installation
-
-```sh
-$ npm install --save kaggle-competitions
-```
+## Tree
 
 ```
 ── readme.md
