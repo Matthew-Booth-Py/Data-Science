@@ -8,7 +8,7 @@
 $ npm install --save kaggle-competitions
 ```
 
-
+```
 ├── LR-household_price_predictor
 │   ├── data
 │   │   ├── sample_submission.csv
@@ -26,29 +26,9 @@ $ npm install --save kaggle-competitions
 │   └── intel.ipynb
 ├── readme.md
 └── recommendation_system
-    ├── iframe_figures
-    │   ├── HUGE.html
-    │   ├── LIVE.html
-    │   ├── figure_22.html
-    │   ├── figure_23.html
-    │   ├── figure_24.html
-    │   ├── figure_25.html
-    │   ├── figure_28.html
-    │   ├── figure_29.html
-    │   ├── figure_31.html
-    │   ├── figure_33.html
-    │   ├── figure_35.html
-    │   ├── figure_38.html
-    │   ├── figure_55.html
-    │   ├── figure_60.html
-    │   ├── figure_68.html
-    │   ├── figure_77.html
-    │   ├── figure_78.html
-    │   ├── figure_87.html
-    │   └── figure_89.html
     ├── movies_metadata.csv
     └── network.ipynb
-
+```
 
 
 
