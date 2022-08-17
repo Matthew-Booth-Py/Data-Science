@@ -1,7 +1,5 @@
-# MachineLearning 
---- 
-Welcome all! This repo documents my learning process through many different techniques within Machine Learning. Enjoy!
-
+# Welcome to Data Science!
+Welcome all! This repo is dedicated to teach basic to advanced Data Science techniques! 
 ## Tree
 
 ```
