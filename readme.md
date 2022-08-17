@@ -1,6 +1,6 @@
 # MachineLearning 
-
-> Welcome all! This repo documents my learning process through many different techniques within Machine Learning. Enjoy!
+--- 
+Welcome all! This repo documents my learning process through many different techniques within Machine Learning. Enjoy!
 
 ## Tree
 
@@ -24,14 +24,12 @@
 
 ```
 
+# Important Links
+| Important Links |           |
+| ------------- |:-------------:| 
+| YouTube     | [YouTube](https://www.youtube.com/channel/UCabrFMWPo6h7Q9WHC8VZzFw)| 
+| Blog      | [DataScienceVerse](www.datascienceverse.net)|
 
-
-<!-- ## Usage
-
-```js
-var kaggleCompetitions = require('kaggle-competitions');
-kaggleCompetitions();
-``` -->
 
 ## License
 MIT © [Matthew Booth](datascienceverse.net)
