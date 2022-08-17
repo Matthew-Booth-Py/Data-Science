@@ -10,9 +10,6 @@
 │   └── linear_models
 │       ├── house_price_prediction
 │       │   ├── data
-│       │   │   ├── sample_submission.csv
-│       │   │   ├── test.csv
-│       │   │   └── train.csv
 │       │   ├── glm-blank.ipynb
 │       │   ├── glm.ipynb
 │       │   ├── pipeline.ipynb
@@ -22,9 +19,7 @@
 └── unsupervised_learning
     ├── ai-navigation
     │   ├── main.py
-    │   └── supervised_learning
     └── recommendation_system
-        ├── movies_metadata.csv
         └── network.ipynb
 
 ```
