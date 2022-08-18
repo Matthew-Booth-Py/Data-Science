@@ -7,21 +7,21 @@
 
 
 
-- Linear Models
-- Linear and Quadratic Discriminant Analysis 
-- Kernel Ridge Regression
-- Support Vector Machines
-- Stochastic Gradient Descent
-- Nearest Neighbors
-- Gaussian Processes
-- Cross Decomposition
-- Naive Bayes
-- Decision Trees
-- Ensemble Methods
-- Multiclass and Multioutput Algorithms
-- Feature Selection
-- Semi-Supervised Learning
-- Isotonic Regression 
-- Probability Callibration
-- Neural Network Models (Supervised) 
+| Linear Models |❌|
+| Linear and Quadratic Discriminant Analysis |❌| 
+| Kernel Ridge Regression |❌|
+| Support Vector Machines |❌|
+| Stochastic Gradient Descent |❌|
+| Nearest Neighbors |❌|
+| Gaussian Processes |❌|
+| Cross Decomposition |❌|
+| Naive Bayes |❌|
+| Decision Trees |❌|
+| Ensemble Methods |❌|
+| Multiclass and Multioutput Algorithms |❌|
+| Feature Selection |❌|
+| Semi - Supervised Learning |❌|
+| Isotonic Regression |❌|
+| Probability Callibration |❌|
+| Neural Network Models (Supervised) |❌|
 
