@@ -11,7 +11,7 @@
 
 
 |1.1 Linear Models|Tracker|
-| ------------- |:-------------:| 
+| ------------- |---| |:-------------:| 
 | 1.1.1 | Ordinary Least Squares |🚧|
 | 1.1.2 | Ridge Regression and Classification |❌|
 | 1.1.3 | Lasso |❌|
