@@ -31,7 +31,8 @@
 
 
 
-
+|1.1 Linear Models|Tracker|
+| ------------- |:-------------:| 
 | Linear and Quadratic Discriminant Analysis |❌| 
 | Kernel Ridge Regression |❌|
 | Support Vector Machines |❌|
