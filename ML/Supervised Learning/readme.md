@@ -2,7 +2,7 @@
 > Supervised learning is a subcategory of ML and AI. Subervised learning uses labeled input (X), and output (y). 
 
 [Supervised Learning Techniques](https://scikit-learn.org/stable/supervised_learning.html)
-|Method|Example Complete|
+|Method|Tracker|
 | ------------- |:-------------:| 
 | Linear Models |❌|
 | Linear and Quadratic Discriminant Analysis |❌| 
