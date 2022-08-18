@@ -4,9 +4,6 @@
 [Supervised Learning Techniques](https://scikit-learn.org/stable/supervised_learning.html)
 |Method|Example Complete|
 | ------------- |:-------------:| 
-
-
-
 | Linear Models |❌|
 | Linear and Quadratic Discriminant Analysis |❌| 
 | Kernel Ridge Regression |❌|
