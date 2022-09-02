@@ -26,7 +26,7 @@ Welcome all! This repo is dedicated to teach basic to advanced Data Science tech
 | ------------- |:-------------:| 
 | YouTube     | [YouTube](https://www.youtube.com/channel/UCabrFMWPo6h7Q9WHC8VZzFw)| 
 | Blog      | [DataScienceVerse](www.datascienceverse.net)|
-
+  
 
 ## License
 MIT © [Matthew Booth](datascienceverse.net)
