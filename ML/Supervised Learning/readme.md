@@ -8,7 +8,7 @@
 |❌| Not Started | 
 |🚧| In Progress | 
 |✅| Complete | 
-
+ ---- 
 
 |1.1 Linear Models|Tracker|
 | ------------- |:-------------:| 
