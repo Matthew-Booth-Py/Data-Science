@@ -9,3 +9,6 @@
 mlruns
 artifacts
 data/test.csv
+
+# Files
+experiments
