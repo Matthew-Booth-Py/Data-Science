@@ -1,0 +1,4 @@
+artifact_location: file:///C:\Users\crysi\Documents\GitHub\Data-Science\ML-Ops\experiments/1
+experiment_id: '1'
+lifecycle_stage: active
+name: housing
